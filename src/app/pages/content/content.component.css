@@ -1,0 +1,23 @@
+.container-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.content-cover > img{
+    border-radius: 5px;
+    width: 400px;
+    min-width: 400px;
+    height: 300px;
+}
+
+.content-descripton{
+    margin-top: 15px;
+}
+
+.content-descripton >p {
+    color: rgb(165, 165, 165);
+}
