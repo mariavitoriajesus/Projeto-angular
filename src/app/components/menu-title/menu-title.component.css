@@ -1,0 +1,15 @@
+.container-title-menu {
+    color: white;
+}
+
+.container-title-menu > h1 {
+    margin: 15px;
+    font-size: 230px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container-title-menu > hr {
+    margin: 10px;
+}
